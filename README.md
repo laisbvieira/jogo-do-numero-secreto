@@ -36,7 +36,7 @@ Este projeto foi desenvolvido para praticar conceitos de lógica de programaçã
 3. Clique no botão **"Chutar"** para enviar seu palpite.
 4. Receba feedback sobre se o número secreto é maior ou menor que o seu palpite.
 5. Continue jogando até acertar o número secreto.
-6. Ao acertar, reinicie o jogo clicando no botão **"Reiniciar"**.
+6. Ao acertar, reinicie o jogo clicando no botão **"Novo Jogo"**.
 
 ---
 
