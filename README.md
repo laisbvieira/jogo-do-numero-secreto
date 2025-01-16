@@ -1,4 +1,4 @@
-# 🎲 Jogo do Número Secreto
+# 🎲 Jogo do Número Secreto 
 
 Um jogo interativo e divertido onde o objetivo é adivinhar o número secreto gerado aleatoriamente entre 1 e 10! Com feedback em tempo real, o jogo orienta o jogador até que ele acerte o número.
 
@@ -31,7 +31,7 @@ Este projeto foi desenvolvido para praticar conceitos de lógica de programaçã
 
 ## 🎮 Como Jogar
 
-1. Abra o jogo no navegador.
+1. Abra o jogo no navegador: [Clique aqui para jogar](https://jogo-do-numero-secreto-lwdq.vercel.app/).
 2. Escolha um número entre 1 e 10 no campo de entrada.
 3. Clique no botão **"Chutar"** para enviar seu palpite.
 4. Receba feedback sobre se o número secreto é maior ou menor que o seu palpite.
